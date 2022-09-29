@@ -1,0 +1,19 @@
+Pavardė||Vardas||ND1||ND2||ND3||ND4||ND5||Egzaminas
+------------------------------------------------------------------------
+Alaina Moses      6    5    7    8   10     8
+
+Keiron Dolan      7    6    9    7   10     7
+
+Alishia Harvey	  8    6    7    2   10     7
+
+Teresa Pember	  7    8    5    7   10     6
+  
+Kylo Choi         4    8    9    5   10     8
+
+Daanish Shah      9    9    5    7    9     8
+
+Giorgia Bloom     8   10    1    8    9     6
+  
+Shea English      5    9    7    6   10     8
+
+Pranav Munoz      7    6    8    8   10     7

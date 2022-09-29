@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664360784 source:c:\users\andr4jka\onedrive\pulpit\09-30 sav\main.cpp
+	<iostream>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdio>
+	<vector>
+	<fstream>
+	<stdio.h>
+
